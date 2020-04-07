@@ -1,3 +1,3 @@
 # Chrome-Extensions
-Simple BA/PA Chrome extensions
+Simple Browser action Chrome extensions
 
